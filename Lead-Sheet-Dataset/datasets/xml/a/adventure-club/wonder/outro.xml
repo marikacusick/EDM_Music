@@ -1,0 +1,59 @@
+<super>
+  <version>1.1</version>
+  <meta>
+    <artist/>
+    <title>ADventure club wonder outro</title>
+    <beats_in_measure>4</beats_in_measure>
+    <BPM>123</BPM>
+    <key>Bb</key>
+    <YouTubeID>JDMfpeUWS3Q</YouTubeID>
+    <mode>1</mode>
+    <band>
+      <lead>
+        <member>
+          <name>Piano</name>
+          <velocity>0.8</velocity>
+          <octaveOffset>0</octaveOffset>
+          <mute>false</mute>
+        </member>
+      </lead>
+      <harmony>
+        <member>
+          <name>Piano 1/4s</name>
+          <velocity>0.8</velocity>
+          <octaveOffset>0</octaveOffset>
+          <mute>false</mute>
+        </member>
+      </harmony>
+      <bass>
+        <member>
+          <name>Piano Bass Dotted</name>
+          <velocity>0.8</velocity>
+          <octaveOffset>0</octaveOffset>
+          <mute>false</mute>
+        </member>
+      </bass>
+      <drums/>
+    </band>
+    <sections>
+      <_Outro>
+        <global_start>209.17</global_start>
+        <section_duration>19.09</section_duration>
+        <active_start>1.91</active_start>
+        <active_stop>17.19</active_stop>
+      </_Outro>
+    </sections>
+  </meta>
+  <sections>
+    <_Outro>
+      <segment>
+        <instrument/>
+        <rhythm/>
+        <lyrics/>
+        <notes/>
+        <chords/>
+        <numMeasures>8</numMeasures>
+      </segment>
+    </_Outro>
+  </sections>
+</super>

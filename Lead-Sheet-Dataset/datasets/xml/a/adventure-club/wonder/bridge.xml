@@ -1,0 +1,59 @@
+<super>
+  <version>1.1</version>
+  <meta>
+    <artist/>
+    <title>Adventure Club pre chorus</title>
+    <beats_in_measure>4</beats_in_measure>
+    <BPM>123</BPM>
+    <key>Bb</key>
+    <YouTubeID>JDMfpeUWS3Q</YouTubeID>
+    <mode>1</mode>
+    <band>
+      <lead>
+        <member>
+          <name>Piano</name>
+          <velocity>0.8</velocity>
+          <octaveOffset>0</octaveOffset>
+          <mute>false</mute>
+        </member>
+      </lead>
+      <harmony>
+        <member>
+          <name>Piano 1/4s</name>
+          <velocity>0.8</velocity>
+          <octaveOffset>0</octaveOffset>
+          <mute>false</mute>
+        </member>
+      </harmony>
+      <bass>
+        <member>
+          <name>Piano Bass Dotted</name>
+          <velocity>0.8</velocity>
+          <octaveOffset>0</octaveOffset>
+          <mute>false</mute>
+        </member>
+      </bass>
+      <drums/>
+    </band>
+    <sections>
+      <_Bridge>
+        <global_start>130.94</global_start>
+        <section_duration>19.5</section_duration>
+        <active_start>1.95</active_start>
+        <active_stop>17.55</active_stop>
+      </_Bridge>
+    </sections>
+  </meta>
+  <sections>
+    <_Bridge>
+      <segment>
+        <instrument/>
+        <rhythm/>
+        <lyrics/>
+        <notes/>
+        <chords/>
+        <numMeasures>8</numMeasures>
+      </segment>
+    </_Bridge>
+  </sections>
+</super>

@@ -1,0 +1,172 @@
+[0] (0/86)[1/1] a/ace-warrior/running-fire/pre-chorus-and-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-warrior/running-fire
+[0] (1/86)[1/2] a/adam-neely/have-yourself-a-merry-little-christmas/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-neely/have-yourself-a-merry-little-christmas
+[0] (2/86)[1/3] a/adam-neely/have-yourself-a-merry-little-christmas/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-neely/have-yourself-a-merry-little-christmas
+[0] (3/86)[1/4] a/adam-neely/have-yourself-a-merry-little-christmas/verse-and-pre-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-neely/have-yourself-a-merry-little-christmas
+[0] (4/86)[1/5] a/adam-neely/want-to-want-me---sungazer/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-neely/want-to-want-me---sungazer
+[0] (5/86)[1/6] a/adam-neely/want-to-want-me---sungazer/verse-and-pre-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-neely/want-to-want-me---sungazer
+[0] (6/86)[1/7] a/adam-neely/adam-neelys-bass-lessons/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-neely/adam-neelys-bass-lessons
+[0] (7/86)[1/8] a/adrianna/so-sick-ne-yo/pre-chorus-and-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adrianna/so-sick-ne-yo
+[0] (8/86)[1/9] a/action-enterprises/action-52---dam-busters/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/action-enterprises/action-52---dam-busters
+[0] (9/86)[1/10] a/ab-soul/terrorist-threats/instrumental.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ab-soul/terrorist-threats
+[0] (10/86)[1/11] a/ahrix/nova/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ahrix/nova
+[0] (11/86)[1/12] a/ace-of-base/all-that-she-wants/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/all-that-she-wants
+[0] (12/86)[1/13] a/ace-of-base/all-that-she-wants/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/all-that-she-wants
+[0] (13/86)[1/14] a/ace-of-base/all-that-she-wants/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/all-that-she-wants
+[0] (14/86)[1/15] a/ace-of-base/all-that-she-wants/pre-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/all-that-she-wants
+[0] (15/86)[1/16] a/ace-of-base/i-saw-the-sign/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/i-saw-the-sign
+[0] (16/86)[1/17] a/ace-of-base/i-saw-the-sign/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/i-saw-the-sign
+[0] (17/86)[1/18] a/ace-of-base/i-saw-the-sign/instrumental.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/i-saw-the-sign
+[0] (18/86)[1/19] a/ace-of-base/life-is-a-flower/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/life-is-a-flower
+[0] (19/86)[1/20] a/ace-of-base/life-is-a-flower/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/ace-of-base/life-is-a-flower
+[0] (20/86)[1/21] a/adam-szabo-and-johan-vilborg/two-to-one/pre-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-szabo-and-johan-vilborg/two-to-one
+[0] (21/86)[1/22] a/aaliyah/try-again/bridge.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aaliyah/try-again
+[0] (22/86)[1/23] a/aaliyah/try-again/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aaliyah/try-again
+[0] (23/86)[1/24] a/aaliyah/we-need-a-resolution/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aaliyah/we-need-a-resolution
+[0] (24/86)[1/25] a/aaliyah/we-need-a-resolution/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aaliyah/we-need-a-resolution
+[0] (25/86)[1/26] a/aaliyah/we-need-a-resolution/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aaliyah/we-need-a-resolution
+[0] (26/86)[1/27] a/aaliyah/we-need-a-resolution/outro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aaliyah/we-need-a-resolution
+[0] (27/86)[1/28] a/a-love-like-pi/heavens-halberd/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-love-like-pi/heavens-halberd
+[0] (28/86)[1/29] a/adventure-club/wonder/bridge.xml  -  Cannot get beat timings to quantize pianoroll.
+https://www.hooktheory.com/theorytab/view/adventure-club/wonder
+[0] (29/86)[1/30] a/adventure-club/wonder/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adventure-club/wonder
+[0] (30/86)[1/31] a/adventure-club/wonder/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adventure-club/wonder
+[0] (31/86)[1/32] a/adventure-club/wonder/outro.xml  -  Cannot get beat timings to quantize pianoroll.
+https://www.hooktheory.com/theorytab/view/adventure-club/wonder
+[0] (32/86)[1/33] a/adventure-club/wonder/verse-and-pre-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adventure-club/wonder
+[0] (33/86)[1/34] a/acdc/you-shook-me-all-night-long/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/acdc/you-shook-me-all-night-long
+[0] (34/86)[1/35] a/adrianna-r/so-sick-ne-yo/pre-chorus-and-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adrianna-r/so-sick-ne-yo
+[0] (35/86)[1/36] a/absrdst-and-diveo/in-case-it-crashes/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absrdst-and-diveo/in-case-it-crashes
+[0] (36/86)[1/37] a/a-teens/halfway-around-the-world/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-teens/halfway-around-the-world
+[0] (37/86)[1/38] a/a-teens/halfway-around-the-world/verse-and-pre-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-teens/halfway-around-the-world
+[0] (38/86)[1/39] a/a-teens/upside-down/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-teens/upside-down
+[0] (39/86)[1/40] a/a-teens/upside-down/verse-and-pre-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-teens/upside-down
+[0] (40/86)[1/41] a/absrdst/skin-contest/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absrdst/skin-contest
+[0] (41/86)[1/42] a/adelle/hello/intro-and-verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adelle/hello
+[0] (42/86)[1/43] a/agnes/right-here-right-now/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/agnes/right-here-right-now
+[0] (43/86)[1/44] a/acfh/mercy/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/acfh/mercy
+[0] (44/86)[1/45] a/adrian-lux/teenage-crime/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adrian-lux/teenage-crime
+[0] (45/86)[1/46] a/adrian-lux/weekend-heroes---bauer-and-lanford-remix/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adrian-lux/weekend-heroes---bauer-and-lanford-remix
+[0] (46/86)[1/47] a/aerosmith/i-dont-want-to-miss-a-thing/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aerosmith/i-dont-want-to-miss-a-thing
+[0] (47/86)[1/48] a/aerosmith/i-dont-want-to-miss-a-thing/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aerosmith/i-dont-want-to-miss-a-thing
+[0] (48/86)[1/49] a/aerosmith/cryin/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aerosmith/cryin
+[0] (49/86)[1/50] a/aerosmith/cryin/pre-chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aerosmith/cryin
+[0] (50/86)[1/51] a/aerosmith/crazy/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aerosmith/crazy
+[0] (51/86)[1/52] a/aerosmith/dream-on/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aerosmith/dream-on
+[0] (52/86)[1/53] a/aaron-carter/sooner-or-later/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aaron-carter/sooner-or-later
+[0] (53/86)[1/54] a/absofacto/whose-side-are-you-on-anyway/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absofacto/whose-side-are-you-on-anyway
+[0] (54/86)[1/55] a/absofacto/dissolve/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absofacto/dissolve
+[0] (55/86)[1/56] a/a-great-big-world/say-something/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-great-big-world/say-something
+[0] (56/86)[1/57] a/a-great-big-world/say-something/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-great-big-world/say-something
+[0] (57/86)[1/58] a/a-great-big-world/say-something/intro.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-great-big-world/say-something
+[0] (58/86)[1/59] a/a-great-big-world/say-something/intro-and-verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-great-big-world/say-something
+[0] (59/86)[1/60] a/aandg/lucid/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/aandg/lucid
+[0] (60/86)[1/61] a/adult-swim/too-many-cooks-theme-song/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adult-swim/too-many-cooks-theme-song
+[0] (61/86)[1/62] a/adult-swim/too-many-cooks-theme-song/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adult-swim/too-many-cooks-theme-song
+[0] (62/86)[1/63] a/adelina-tahiri/heart-on-fire/intro.xml  -  Cannot get beat timings to quantize pianoroll.
+https://www.hooktheory.com/theorytab/view/adelina-tahiri/heart-on-fire
+[0] (63/86)[1/64] a/adam-sandler/somebody-kill-me/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-sandler/somebody-kill-me
+[0] (64/86)[1/65] a/adam-sandler/somebody-kill-me/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-sandler/somebody-kill-me
+[0] (65/86)[1/66] a/adam-green-and-binki-shapiro/here-i-am/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-green-and-binki-shapiro/here-i-am
+[0] (66/86)[1/67] a/adam-green-and-binki-shapiro/here-i-am/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-green-and-binki-shapiro/here-i-am
+[0] (67/86)[1/68] a/adam-lambert/ghost-town/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-lambert/ghost-town
+[0] (68/86)[1/69] a/adam-lambert/ghost-town/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-lambert/ghost-town
+[0] (69/86)[1/70] a/adam-lambert/if-i-had-you/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-lambert/if-i-had-you
+[0] (70/86)[1/71] a/adam-lambert/whataya-want-from-me/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-lambert/whataya-want-from-me
+[0] (71/86)[1/72] a/adam-lambert/whataya-want-from-me/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adam-lambert/whataya-want-from-me
+[0] (72/86)[1/73] a/afrojack/ten-feet-tall/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/afrojack/ten-feet-tall
+[0] (73/86)[1/74] a/afrojack/ten-feet-tall/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/afrojack/ten-feet-tall
+[0] (74/86)[1/75] a/afrojack/ten-feet-tall/instrumental.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/afrojack/ten-feet-tall
+[0] (75/86)[1/76] a/afrojack/the-spark/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/afrojack/the-spark
+[0] (76/86)[1/77] a/above-and-beyond-feat-alex-vargas/all-over-the-world/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/above-and-beyond-feat-alex-vargas/all-over-the-world
+[0] (77/86)[1/78] a/adel-tawil/lieder/verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/adel-tawil/lieder
+[0] (78/86)[1/79] a/absynthe-minded/end-of-the-line/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absynthe-minded/end-of-the-line
+[0] (79/86)[1/80] a/absynthe-minded/end-of-the-line/intro-and-verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absynthe-minded/end-of-the-line
+[0] (80/86)[1/81] a/absynthe-minded/papillon/bridge.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absynthe-minded/papillon
+[0] (81/86)[1/82] a/absynthe-minded/papillon/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absynthe-minded/papillon
+[0] (82/86)[1/83] a/absynthe-minded/papillon/intro-and-verse.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/absynthe-minded/papillon
+[0] (83/86)[1/84] a/afrojack-ft-eva-simons/take-over-control/instrumental.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/afrojack-ft-eva-simons/take-over-control
+[0] (84/86)[1/85] a/a-perfect-circle/weak-and-powerless/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-perfect-circle/weak-and-powerless
+[0] (85/86)[1/86] a/a-perfect-circle/blue/chorus.xml  -  matplotlib package is required for plotting supports.
+https://www.hooktheory.com/theorytab/view/a-perfect-circle/blue
