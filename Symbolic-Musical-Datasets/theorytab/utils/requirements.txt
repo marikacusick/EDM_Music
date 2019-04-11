@@ -1,6 +1,0 @@
-beautifulsoup4
-requests
-pafy
-ffmpy
-youtube-dl
-lxml
