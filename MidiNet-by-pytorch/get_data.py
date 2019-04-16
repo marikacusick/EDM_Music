@@ -541,7 +541,7 @@ def get_listfile(dataset_path):
     for i in data:
         split = i.split('/')
         if split[len(split)-1].split('.')[0] == 'chorus':
-            full_dir = "./Lead-Sheet-Dataset/datasets/xml/" + i
+            full_dir = "../Lead-Sheet-Dataset/datasets/xml/" + i
             list_file.append(full_dir)
     print (list_file)
     return list_file
@@ -551,7 +551,7 @@ def main():
     is_get_matrix = 1
     if is_get_data == 1:
         #a = 'data file'
-        a = './Lead-Sheet-Dataset/datasets/xml_list.json'
+        a = '../Lead-Sheet-Dataset/datasets/xml_list.json'
         list_file = get_listfile(a)
         print (list_file)
         list_ = check_chord_type(list_file)

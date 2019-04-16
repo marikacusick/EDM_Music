@@ -4,8 +4,10 @@ import math
 import time
 
 #load data
-data = np.load('octave2_x_T.npy')
-prev_data = np.load('octave2_prev_x_T.npy')
+# data = np.load('octave2_x_T.npy')
+# prev_data = np.load('octave2_prev_x_T.npy')
+data = np.load('data_x.npy')
+prev_data = np.load('prev_x.npy')
 print('data shape: {}'.format(data.shape))
 time.sleep(3)
 
