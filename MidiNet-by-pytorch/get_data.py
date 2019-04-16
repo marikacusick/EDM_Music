@@ -4,6 +4,7 @@ import os
 from os.path import basename, dirname, join, exists, splitext
 import ipdb
 import numpy as np
+import json
 
 
 def get_sample(cur_song, cur_dur,n_ratio, dim_pitch, dim_bar):
@@ -521,23 +522,38 @@ def check_chord_type(list_file):
     return list_
 
 def get_listfile(dataset_path):
+    
+    
+    with open(dataset_path, "r") as read_file:
+        data = json.load(read_file)
+
+#print (data)
 
     list_file=[]
+#    print (os.walk(dataset_path))
+#    for root, dirs, files in os.walk(dataset_path):
+#        print (files)
+#        for f in files:
+#            if splitext(f)[0]=='chorus':
+#                fp = join(root, f)
+#                list_file.append(fp)
 
-    for root, dirs, files in os.walk(dataset_path):    
-        for f in files:
-            if splitext(f)[0]=='chorus':                
-                fp = join(root, f)
-                list_file.append(fp)
-
+    for i in data:
+        split = i.split('/')
+        if split[len(split)-1].split('.')[0] == 'chorus':
+            full_dir = "./Lead-Sheet-Dataset/datasets/xml/" + i
+            list_file.append(full_dir)
+    print (list_file)
     return list_file
 
 def main():
     is_get_data = 1
     is_get_matrix = 1
     if is_get_data == 1:
-        a = 'data file'
+        #a = 'data file'
+        a = './Lead-Sheet-Dataset/datasets/xml_list.json'
         list_file = get_listfile(a)
+        print (list_file)
         list_ = check_chord_type(list_file)
         list_of_four_beat = beats_(list_)
         c_key_list,d_key_list,e_key_list,f_key_list,g_key_list,a_key_list,b_key_list = get_key(list_of_four_beat)
